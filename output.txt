@@ -1,0 +1,509 @@
+
+Quiz Details:
+Quiz General Information:
+Type: None
+Is Mandatory: None
+Topic ID: None
+Topic: Structural Organisation in Animals
+Is Published: True
+
+Options:
+
+Current Quiz Analysis:
+
+Current Quiz Information:
+User ID: 7ZXdz3zHuNcdg9agb5YpaOGLQqw2
+Score: 32
+Accuracy: 80 %
+Correct Answers: 8
+Incorrect Answers: 2
+Total Questions: 128
+Rank: Topic Rank - #2402
+
+User Responses:
+Question ID: 1837, Selected Option: 7363
+Question ID: 1848, Selected Option: 7407
+Question ID: 1852, Selected Option: 7423
+Question ID: 1862, Selected Option: 7464
+Question ID: 1877, Selected Option: 7525
+Question ID: 1878, Selected Option: 7529
+Question ID: 1900, Selected Option: 7617
+Question ID: 1917, Selected Option: 7685
+Question ID: 1934, Selected Option: 7750
+Question ID: 1964, Selected Option: 7872
+Columns in Historical Quiz Data:
+Index(['user_id', 'score', 'accuracy', 'correct_answers', 'total_questions',
+       'response_map', 'quiz_id', 'quiz_topic', 'submitted_at', 'created_at',
+       'updated_at'],
+      dtype='object')
+
+Historical Quiz Analysis:
+
+Historical Quiz Information:
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 108
+Accuracy: 90 
+Correct Answers: 27
+Incorrect Answers: 73
+Total Questions: 100
+Rank: Body Fluids and Circulation
+Submitted At: 2025-01-17T15:30:18.027+05:30
+
+User Responses:
+Question ID: 2523, Selected Option: 10109
+Question ID: 2529, Selected Option: 10130
+Question ID: 2533, Selected Option: 10149
+Question ID: 2534, Selected Option: 10151
+Question ID: 2535, Selected Option: 10155
+Question ID: 2537, Selected Option: 10163
+Question ID: 2538, Selected Option: 10169
+Question ID: 2541, Selected Option: 10178
+Question ID: 2543, Selected Option: 10187
+Question ID: 2550, Selected Option: 10216
+Question ID: 2553, Selected Option: 10227
+Question ID: 2554, Selected Option: 10232
+Question ID: 2555, Selected Option: 10235
+Question ID: 2557, Selected Option: 10242
+Question ID: 2558, Selected Option: 10246
+Question ID: 2564, Selected Option: 10270
+Question ID: 2565, Selected Option: 10276
+Question ID: 2567, Selected Option: 10283
+Question ID: 2572, Selected Option: 10305
+Question ID: 2576, Selected Option: 10318
+Question ID: 2585, Selected Option: 10356
+Question ID: 2587, Selected Option: 10365
+Question ID: 2589, Selected Option: 10371
+Question ID: 2591, Selected Option: 10378
+Question ID: 2593, Selected Option: 10389
+Question ID: 2598, Selected Option: 10407
+Question ID: 2599, Selected Option: 10411
+Question ID: 2607, Selected Option: 10444
+Question ID: 2610, Selected Option: 10454
+Question ID: 2614, Selected Option: 10472
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 92
+Accuracy: 100 
+Correct Answers: 23
+Incorrect Answers: 0
+Total Questions: 23
+Rank: Body Fluids and Circulation 
+Submitted At: 2025-01-17T15:17:44.042+05:30
+
+User Responses:
+Question ID: 48, Selected Option: 192
+Question ID: 49, Selected Option: 197
+Question ID: 50, Selected Option: 199
+Question ID: 51, Selected Option: 203
+Question ID: 52, Selected Option: 208
+Question ID: 53, Selected Option: 212
+Question ID: 54, Selected Option: 217
+Question ID: 55, Selected Option: 221
+Question ID: 56, Selected Option: 224
+Question ID: 57, Selected Option: 229
+Question ID: 58, Selected Option: 232
+Question ID: 59, Selected Option: 235
+Question ID: 60, Selected Option: 239
+Question ID: 61, Selected Option: 245
+Question ID: 62, Selected Option: 250
+Question ID: 63, Selected Option: 253
+Question ID: 64, Selected Option: 256
+Question ID: 65, Selected Option: 261
+Question ID: 134, Selected Option: 538
+Question ID: 135, Selected Option: 543
+Question ID: 136, Selected Option: 546
+Question ID: 353, Selected Option: 1415
+Question ID: 354, Selected Option: 1417
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 116
+Accuracy: 96 
+Correct Answers: 29
+Incorrect Answers: 71
+Total Questions: 100
+Rank: Body Fluids and Circulation
+Submitted At: 2025-01-16T20:13:19.682+05:30
+
+User Responses:
+Question ID: 2523, Selected Option: 10109
+Question ID: 2525, Selected Option: 10117
+Question ID: 2528, Selected Option: 10127
+Question ID: 2533, Selected Option: 10149
+Question ID: 2539, Selected Option: 10170
+Question ID: 2540, Selected Option: 10175
+Question ID: 2548, Selected Option: 10208
+Question ID: 2549, Selected Option: 10211
+Question ID: 2550, Selected Option: 10216
+Question ID: 2552, Selected Option: 10223
+Question ID: 2554, Selected Option: 10232
+Question ID: 2558, Selected Option: 10246
+Question ID: 2560, Selected Option: 10257
+Question ID: 2562, Selected Option: 10265
+Question ID: 2564, Selected Option: 10270
+Question ID: 2573, Selected Option: 10307
+Question ID: 2574, Selected Option: 10313
+Question ID: 2578, Selected Option: 10329
+Question ID: 2580, Selected Option: 10337
+Question ID: 2586, Selected Option: 10360
+Question ID: 2590, Selected Option: 10377
+Question ID: 2595, Selected Option: 10396
+Question ID: 2599, Selected Option: 10411
+Question ID: 2600, Selected Option: 10414
+Question ID: 2602, Selected Option: 10422
+Question ID: 2607, Selected Option: 10444
+Question ID: 2608, Selected Option: 10447
+Question ID: 2609, Selected Option: 10451
+Question ID: 2612, Selected Option: 10464
+Question ID: 2613, Selected Option: 10469
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 36
+Accuracy: 90 
+Correct Answers: 9
+Incorrect Answers: 14
+Total Questions: 23
+Rank: Body Fluids and Circulation 
+Submitted At: 2025-01-16T20:00:11.562+05:30
+
+User Responses:
+Question ID: 49, Selected Option: 197
+Question ID: 52, Selected Option: 208
+Question ID: 53, Selected Option: 212
+Question ID: 54, Selected Option: 217
+Question ID: 55, Selected Option: 221
+Question ID: 60, Selected Option: 239
+Question ID: 64, Selected Option: 255
+Question ID: 136, Selected Option: 546
+Question ID: 353, Selected Option: 1415
+Question ID: 354, Selected Option: 1417
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 36
+Accuracy: 31 
+Correct Answers: 9
+Incorrect Answers: 91
+Total Questions: 100
+Rank: Body Fluids and Circulation
+Submitted At: 2025-01-15T20:34:39.462+05:30
+
+User Responses:
+Question ID: 2521, Selected Option: 10099
+Question ID: 2523, Selected Option: 10107
+Question ID: 2532, Selected Option: 10145
+Question ID: 2537, Selected Option: 10163
+Question ID: 2538, Selected Option: 10168
+Question ID: 2540, Selected Option: 10174
+Question ID: 2544, Selected Option: 10191
+Question ID: 2549, Selected Option: 10211
+Question ID: 2558, Selected Option: 10247
+Question ID: 2563, Selected Option: 10266
+Question ID: 2564, Selected Option: 10270
+Question ID: 2566, Selected Option: 10279
+Question ID: 2567, Selected Option: 10283
+Question ID: 2570, Selected Option: 10297
+Question ID: 2571, Selected Option: 10298
+Question ID: 2572, Selected Option: 10302
+Question ID: 2577, Selected Option: 10324
+Question ID: 2582, Selected Option: 10344
+Question ID: 2585, Selected Option: 10355
+Question ID: 2586, Selected Option: 10361
+Question ID: 2590, Selected Option: 10377
+Question ID: 2593, Selected Option: 10388
+Question ID: 2594, Selected Option: 10393
+Question ID: 2595, Selected Option: 10396
+Question ID: 2596, Selected Option: 10399
+Question ID: 2602, Selected Option: 10424
+Question ID: 2610, Selected Option: 10456
+Question ID: 2613, Selected Option: 10469
+Question ID: 2616, Selected Option: 10481
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 40
+Accuracy: 38 
+Correct Answers: 10
+Incorrect Answers: 79
+Total Questions: 89
+Rank: Human Reproduction
+Submitted At: 2025-01-15T15:57:12.791+05:30
+
+User Responses:
+Question ID: 3043, Selected Option: 12184
+Question ID: 3044, Selected Option: 12186
+Question ID: 3046, Selected Option: 12194
+Question ID: 3053, Selected Option: 12224
+Question ID: 3062, Selected Option: 12261
+Question ID: 3063, Selected Option: 12264
+Question ID: 3064, Selected Option: 12267
+Question ID: 3065, Selected Option: 12270
+Question ID: 3068, Selected Option: 12283
+Question ID: 3071, Selected Option: 12297
+Question ID: 3074, Selected Option: 12307
+Question ID: 3080, Selected Option: 12333
+Question ID: 3082, Selected Option: 12340
+Question ID: 3083, Selected Option: 12343
+Question ID: 3086, Selected Option: 12354
+Question ID: 3087, Selected Option: 12361
+Question ID: 3089, Selected Option: 12368
+Question ID: 3090, Selected Option: 12370
+Question ID: 3096, Selected Option: 12394
+Question ID: 3097, Selected Option: 12401
+Question ID: 3104, Selected Option: 12427
+Question ID: 3110, Selected Option: 12451
+Question ID: 3111, Selected Option: 12456
+Question ID: 3112, Selected Option: 12458
+Question ID: 3114, Selected Option: 12466
+Question ID: 3116, Selected Option: 12476
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 36
+Accuracy: 50 
+Correct Answers: 9
+Incorrect Answers: 14
+Total Questions: 23
+Rank: Body Fluids and Circulation 
+Submitted At: 2025-01-15T15:36:46.410+05:30
+
+User Responses:
+Question ID: 48, Selected Option: 193
+Question ID: 49, Selected Option: 197
+Question ID: 50, Selected Option: 202
+Question ID: 51, Selected Option: 203
+Question ID: 52, Selected Option: 208
+Question ID: 53, Selected Option: 212
+Question ID: 54, Selected Option: 217
+Question ID: 55, Selected Option: 221
+Question ID: 56, Selected Option: 226
+Question ID: 57, Selected Option: 229
+Question ID: 58, Selected Option: 231
+Question ID: 59, Selected Option: 235
+Question ID: 60, Selected Option: 240
+Question ID: 61, Selected Option: 244
+Question ID: 62, Selected Option: 249
+Question ID: 64, Selected Option: 257
+Question ID: 65, Selected Option: 261
+Question ID: 134, Selected Option: 539
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 12
+Accuracy: 30 
+Correct Answers: 3
+Incorrect Answers: 56
+Total Questions: 59
+Rank: principles of inheritance and variation 
+Submitted At: 2025-01-13T16:10:03.743+05:30
+
+User Responses:
+Question ID: 473, Selected Option: 1893
+Question ID: 474, Selected Option: 1898
+Question ID: 475, Selected Option: 1901
+Question ID: 487, Selected Option: 1951
+Question ID: 488, Selected Option: 1956
+Question ID: 492, Selected Option: 1972
+Question ID: 500, Selected Option: 2001
+Question ID: 508, Selected Option: 2034
+Question ID: 513, Selected Option: 2054
+Question ID: 521, Selected Option: 2085
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 76
+Accuracy: 100 
+Correct Answers: 19
+Incorrect Answers: 1
+Total Questions: 20
+Rank: microbes in human welfare
+Submitted At: 2025-01-13T13:28:12.784+05:30
+
+User Responses:
+Question ID: 770, Selected Option: 3084
+Question ID: 771, Selected Option: 3085
+Question ID: 772, Selected Option: 3091
+Question ID: 773, Selected Option: 3096
+Question ID: 774, Selected Option: 4667
+Question ID: 775, Selected Option: 3103
+Question ID: 776, Selected Option: 3107
+Question ID: 777, Selected Option: 3108
+Question ID: 778, Selected Option: 3113
+Question ID: 779, Selected Option: 3117
+Question ID: 780, Selected Option: 3120
+Question ID: 781, Selected Option: 3124
+Question ID: 782, Selected Option: 3130
+Question ID: 783, Selected Option: 3133
+Question ID: 784, Selected Option: 3139
+Question ID: 785, Selected Option: 3143
+Question ID: 786, Selected Option: 3146
+Question ID: 787, Selected Option: 3150
+Question ID: 788, Selected Option: 3153
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 40
+Accuracy: 100 
+Correct Answers: 10
+Incorrect Answers: 12
+Total Questions: 22
+Rank: reproductive health 
+Submitted At: 2025-01-13T13:12:40.687+05:30
+
+User Responses:
+Question ID: 612, Selected Option: 2451
+Question ID: 613, Selected Option: 2454
+Question ID: 614, Selected Option: 2460
+Question ID: 619, Selected Option: 2481
+Question ID: 620, Selected Option: 2483
+Question ID: 624, Selected Option: 2499
+Question ID: 626, Selected Option: 2509
+Question ID: 628, Selected Option: 2516
+Question ID: 629, Selected Option: 2521
+Question ID: 630, Selected Option: 2523
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 112
+Accuracy: 93 
+Correct Answers: 28
+Incorrect Answers: 13
+Total Questions: 41
+Rank: human health and disease 
+Submitted At: 2025-01-11T21:20:08.641+05:30
+
+User Responses:
+Question ID: 790, Selected Option: 3160
+Question ID: 793, Selected Option: 3172
+Question ID: 794, Selected Option: 3177
+Question ID: 796, Selected Option: 3185
+Question ID: 797, Selected Option: 3188
+Question ID: 799, Selected Option: 3197
+Question ID: 800, Selected Option: 3200
+Question ID: 801, Selected Option: 3204
+Question ID: 804, Selected Option: 3217
+Question ID: 805, Selected Option: 3219
+Question ID: 806, Selected Option: 3226
+Question ID: 807, Selected Option: 3227
+Question ID: 808, Selected Option: 3234
+Question ID: 810, Selected Option: 3241
+Question ID: 811, Selected Option: 3243
+Question ID: 812, Selected Option: 3249
+Question ID: 813, Selected Option: 3251
+Question ID: 814, Selected Option: 3255
+Question ID: 815, Selected Option: 3259
+Question ID: 816, Selected Option: 3265
+Question ID: 817, Selected Option: 3268
+Question ID: 818, Selected Option: 3272
+Question ID: 820, Selected Option: 3280
+Question ID: 823, Selected Option: 3291
+Question ID: 825, Selected Option: 4669
+Question ID: 826, Selected Option: 3305
+Question ID: 827, Selected Option: 3309
+Question ID: 828, Selected Option: 3311
+Question ID: 829, Selected Option: 3316
+Question ID: 830, Selected Option: 3318
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 64
+Accuracy: 84 
+Correct Answers: 16
+Incorrect Answers: 6
+Total Questions: 22
+Rank: reproductive health 
+Submitted At: 2025-01-11T21:03:43.251+05:30
+
+User Responses:
+Question ID: 611, Selected Option: 2447
+Question ID: 612, Selected Option: 2451
+Question ID: 613, Selected Option: 2454
+Question ID: 614, Selected Option: 2460
+Question ID: 615, Selected Option: 2465
+Question ID: 616, Selected Option: 2466
+Question ID: 617, Selected Option: 2470
+Question ID: 619, Selected Option: 2481
+Question ID: 620, Selected Option: 2484
+Question ID: 621, Selected Option: 2486
+Question ID: 622, Selected Option: 2490
+Question ID: 623, Selected Option: 2495
+Question ID: 624, Selected Option: 2499
+Question ID: 625, Selected Option: 2505
+Question ID: 626, Selected Option: 2509
+Question ID: 627, Selected Option: 2514
+Question ID: 628, Selected Option: 2516
+Question ID: 629, Selected Option: 2521
+Question ID: 630, Selected Option: 2523
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 52
+Accuracy: 43 
+Correct Answers: 13
+Incorrect Answers: 42
+Total Questions: 55
+Rank: Reproductive Health
+Submitted At: 2024-12-28T22:58:52.969+05:30
+
+User Responses:
+Question ID: 3132, Selected Option: 12542
+Question ID: 3135, Selected Option: 12554
+Question ID: 3137, Selected Option: 12561
+Question ID: 3140, Selected Option: 12574
+Question ID: 3142, Selected Option: 12581
+Question ID: 3144, Selected Option: 12589
+Question ID: 3145, Selected Option: 12593
+Question ID: 3146, Selected Option: 12596
+Question ID: 3147, Selected Option: 12600
+Question ID: 3148, Selected Option: 12604
+Question ID: 3149, Selected Option: 12610
+Question ID: 3150, Selected Option: 12612
+Question ID: 3156, Selected Option: 12637
+Question ID: 3158, Selected Option: 12646
+Question ID: 3160, Selected Option: 12653
+Question ID: 3163, Selected Option: 12664
+Question ID: 3165, Selected Option: 12674
+Question ID: 3167, Selected Option: 12682
+Question ID: 3168, Selected Option: 12686
+Question ID: 3178, Selected Option: 12726
+Question ID: 3181, Selected Option: 12735
+Question ID: 3184, Selected Option: 12747
+Question ID: 3185, Selected Option: 12751
+Question ID: 3187, Selected Option: 12760
+Question ID: 3188, Selected Option: 12764
+Question ID: 3189, Selected Option: 12767
+Question ID: 3190, Selected Option: 12771
+Question ID: 3191, Selected Option: 12776
+Question ID: 3193, Selected Option: 12786
+Question ID: 3194, Selected Option: 12787
+
+--------------------------------------------------
+User ID: YcDFSO4ZukTJnnFMgRNVwZTE4j42
+Score: 24
+Accuracy: 66 
+Correct Answers: 6
+Incorrect Answers: 94
+Total Questions: 100
+Rank: Respiration and Gas Exchange
+Submitted At: 2024-12-11T20:36:44.822+05:30
+
+User Responses:
+Question ID: 2417, Selected Option: 9684
+Question ID: 2425, Selected Option: 9715
+Question ID: 2435, Selected Option: 9754
+Question ID: 2440, Selected Option: 9776
+Question ID: 2444, Selected Option: 9793
+Question ID: 2452, Selected Option: 9824
+Question ID: 2459, Selected Option: 9852
+Question ID: 2469, Selected Option: 9890
+Question ID: 2515, Selected Option: 10075
+
+--------------------------------------------------
+
+Recommendations:
+- No major weaknesses identified. Keep up the good work!
+Student Persona:
+Strengths: ['human health and disease ', 'microbes in human welfare', 'Body Fluids and Circulation', 'Body Fluids and Circulation ']
+Weaknesses: ['Respiration and Gas Exchange', 'Reproductive Health', 'reproductive health ', 'principles of inheritance and variation ', 'Body Fluids and Circulation ', 'Human Reproduction', 'Body Fluids and Circulation']
