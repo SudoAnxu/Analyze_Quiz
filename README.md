@@ -1,6 +1,5 @@
-Certainly! Below is a complete README file for your project, including all necessary sections such as project overview, features, technologies used, setup instructions, approach description, contributing guidelines, and license information.
 
-```markdown
+
 # Quiz Performance Analysis
 
 ## Project Overview
